@@ -35,5 +35,28 @@ $movies = [
         'poster' => 'https://pad.mymovies.it/filmclub/2012/06/004/locandinapg9.jpg'
     ],
 
+    [
+        'title' => 'Black Panter',
+        'date' => 2018,
+        'author' => 'Ryan Coogler',
+        'description' => 'Il giovane principe T Challa ritorna a casa, nella nazione tecnologicamente avanzata del Wakanda. Ben presto però è costretto a richiedere l aiuto dell agente della CIA Everett K. Ross per difendere il trono ed evitare una guerra civile.',
+        'poster' => 'https://pad.mymovies.it/filmclub/2015/11/232/locandina.jpg'
+    ],
+
+    [
+        'title' => 'Thor: Ragnarok',
+        'date' => 2017,
+        'author' => 'Taika Waititi',
+        'description' => 'Imprigionato dall altra parte dell universo e privato del proprio martello, il potente Thor deve combattere Hulk e impedire che l onnipotente Hela distrugga il suo mondo natale e l intera civiltà asgardiana.',
+        'poster' => 'https://pad.mymovies.it/filmclub/2015/02/074/locandinapg2.jpg'
+    ],
+
+    [
+        'title' => 'Guardiani Della Galassia',
+        'date' => 2014,
+        'author' => 'James Gunn',
+        'description' => 'Un avventuriero spaziale, Brash Peter Quill, diventa preda di alcuni cacciatori di taglie dopo aver rubato una sfera ambita dal potente Ronan. Per sfuggire alla morte, l uomo si allea con quattro improbabili compagni di avventura.',
+        'poster' => 'https://pad.mymovies.it/filmclub/2012/07/018/locandinapg3.jpg'
+    ],
 
 ];
