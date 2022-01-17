@@ -28,7 +28,7 @@
         <h2> <?php echo $new_movie->title; ?> </h2>
         <h4> <?php echo $new_movie->author; ?> </h4>
         <h5> <?php echo $new_movie->date; ?> </h5>
-        <p> <?php echo $new_movie->description; ?> </p>
+        <p> <?php echo $new_movie->getDescription(60); ?> </p>
     </div>
 
     <?php endforeach; ?>

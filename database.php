@@ -32,7 +32,7 @@ $movies = [
         'date' => 2013,
         'author' => 'Shane Black',
         'description' => 'Dopo aver salvato New York dalla distruzione ed essere rimasto da allora insonne e preoccupato, Tony Stark è rimasto senza armatura e deve lottare contro le sue paure interiori per sconfiggere il suo nuovo nemico, il Mandarino.',
-        'poster' => 'https://pad.mymovies.it/filmclub/2012/06/004/locandinapg1.jpg'
+        'poster' => 'https://pad.mymovies.it/filmclub/2012/06/004/locandinapg9.jpg'
     ],
 
 
